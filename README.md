@@ -7,18 +7,23 @@
 
 ## Image Stiching Result
 * Original Input Image
+
 ![](https://i.imgur.com/LGjYu1v.png)
 
 * Aligned Result (image2)
+
 ![](https://i.imgur.com/xeImJCn.png)
 
 * Original Stitching Result (cropped)
+
 ![](https://i.imgur.com/dxSVSMb.png)
 
 * Stitching Result with Linearly Blend
-* ![](https://i.imgur.com/DaHJckF.png)
+
+![](https://i.imgur.com/DaHJckF.png)
 
 ## Infinite Zooming Effect
+
 ![](https://i.imgur.com/7f4Tx3q.gif)
 
 ## Different Feature Extraction Comparisson
