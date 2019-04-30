@@ -23,8 +23,8 @@
 ![](https://i.imgur.com/DaHJckF.png)
 
 ## Infinite Zooming Effect
+![](https://i.imgur.com/EdVS26e.gif)
 
-![](https://i.imgur.com/7f4Tx3q.gif)
 
 ## Different Feature Extraction Comparisson
 由於SIFT和SURF都是擁有專利利的演算法，所以我們拿ORB與BRISK比較
