@@ -23,7 +23,7 @@
 ![](https://i.imgur.com/DaHJckF.png)
 
 ## Infinite Zooming Effect
-![](https://i.imgur.com/EdVS26e.gif)
+![](https://i.imgur.com/5o474YR.gif)
 
 
 ## Different Feature Extraction Comparisson
@@ -59,4 +59,4 @@ BRISK：
 * 效能其次，比ORB略慢一些
 * 特徵點傾向偵測⾓角落落、邊的構造
 
-結論：BRISK對於稜⾓角很多例例如⽂文書表格的alignment很有效 但是對於稜⾓角不多的圖片就沒輒了了，這時候⽤用ORB會好⼀一些
+結論：BRISK對於稜角很多例如文書表格的alignment很有效，但是對於稜角不多的圖片就沒輒了，這時候用ORB會好一些
